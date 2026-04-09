@@ -1,0 +1,18 @@
+
+.loginOption{
+     float:right; 
+    height: 900px;
+    width:35%;
+    margin:auto;
+    color:white;
+    background: linear-gradient(to bottom, #89c0d2, #6d7577);
+    
+}
+.contain{
+        float: left;
+        width:65%;
+       
+}
+.center {
+    margin-top: 255px;
+  }
